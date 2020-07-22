@@ -1,0 +1,4 @@
+
+ข%squid:RedundantThrowsDeclarationCheck"eRemove the declaration of thrown exception 'java.awt.HeadlessException' which is a runtime exception.(ฎ๋ฃÿÿÿÿÿ8ว๊ü๛ซ-
+1squid:S1220""Move this file to a named package.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ฃหผ8ร์üซ-

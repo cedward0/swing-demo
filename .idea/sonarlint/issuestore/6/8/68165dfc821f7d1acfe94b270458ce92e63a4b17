@@ -1,0 +1,6 @@
+
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(˜ØÀÇ8ÎÁ ú«-
+Fsquid:S1604"(Make this anonymous inner class a lambda(Èú†8Œ÷Æû«-
+Ysquid:S2696!"6Make the enclosing method "static" or remove this set.(¯²ßØùÿÿÿÿ8ÚÃÁô­-
+8squid:S1220""Move this file to a named package.8Ê¾Ÿú«-
+Fsquid:S1604%"(Make this anonymous inner class a lambda(²’÷Â8Ï†Õô­-
